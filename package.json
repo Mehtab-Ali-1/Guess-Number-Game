@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  },
+  "name": "m786guessnumbergame",
+  "version": "1.0.0",
+  "main": "guessNumber.js",
+  "type": "module",
+  "bin": "guessNumber.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "description": ""
+}
